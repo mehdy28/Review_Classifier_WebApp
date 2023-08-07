@@ -6,7 +6,7 @@ import re
 import os
 
 # Create a component folder if it doesn't exist
-component_folder = "components"
+component_folder = "V_0.0/components/"
 if not os.path.exists(component_folder):
     os.makedirs(component_folder)
 
