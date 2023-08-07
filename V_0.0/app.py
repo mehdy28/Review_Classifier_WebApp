@@ -1,7 +1,6 @@
-# Import necessary libraries
 import streamlit as st
 import pandas as pd
-from joblib import  load
+from joblib import load
 from lime import lime_text
 import re
 import os
